@@ -1,0 +1,14 @@
+{
+  "waveform": "chirp",
+  "rf_mode": "external_mixer",
+  "carrier_hz": 5500000000.0,
+  "bandwidth_hz": 400000000.0,
+  "chirp_duration_s": null,
+  "amplitude": 0.15,
+  "phase_rad": 0.0,
+  "if_center_hz": 300000000.0,
+  "sideband": "upper",
+  "custom_file": null,
+  "custom_format": "dac_samples",
+  "sample_rate_hz": 4000000000.0
+}
